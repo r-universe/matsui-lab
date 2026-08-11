@@ -1,0 +1,10 @@
+{
+  "id": 152810788,
+  "created_at": "2026-08-11T03:39:06.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["synergyMixR", "OmicsLake", "universe"]
+}
