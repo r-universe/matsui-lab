@@ -1,4 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/matsui-lab/matsui-lab.r-universe.dev
 	branch = HEAD
+[submodule "OmicsLake"]
+	path = OmicsLake
+	url = https://github.com/matsui-lab/OmicsLake
+[submodule "synergyMixR"]
+	path = synergyMixR
+	url = https://github.com/matsui-lab/synergyMixR
+	branch = *release
