@@ -8,4 +8,3 @@
 [submodule "synergyMixR"]
 	path = synergyMixR
 	url = https://github.com/matsui-lab/synergyMixR
-	branch = *release
